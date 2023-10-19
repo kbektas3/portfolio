@@ -1,0 +1,66 @@
+{
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "My name is Kenan",
+    "headerTaglineThree": "Cloud Engineer -",
+    "headerTaglineFour": "based in Sarajevo, Bosnia and Herzegovina",
+    "showBlog": false,
+    "darkMode": true,
+    "socials": [
+      {
+        "id": "1",
+        "title": "Github",
+        "link": "https://github.com/kbektas3"
+      },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/kenanbektas3/"
+      },
+      {
+        "id": "3",
+        "title": "Resume",
+        "link": ""
+      },
+      {
+        "id": "5",
+        "title": "Email",
+        "link": "mailto:bekta.kenan@gmail.com"
+      }
+    ],
+    "aboutpara": "I solve problems in creative ways. Interested in making new connections and learning about new technologies. \n\nCurrently working as an AWS Cloud Engineer on the Social Explorer company's product using DevSecOps tools and methodologies.",
+    "resume": {
+      "tagline": "👋 I'm a software engineer, product designer, and maker.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "March 2022 - Present",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": [
+            "Worked on the frontend of a React application",
+            "Worked on the frontend of a React application"
+          ]
+        },
+        {
+          "id": "2",
+          "dates": "March 2020 - March 2022",
+          "type": "Full Time",
+          "position": "Frontend Engineer at X",
+          "bullets": [
+            "Worked on the frontend of a React application"
+          ]
+        }
+      ],
+      "education": {
+        "universityName": "University X",
+        "universityDate": "2016-2020",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+      "languages": ["Javascript", "HTML5", "CSS", "Python"],
+      "frameworks": ["React", "Typescript", "NodeJs"],
+      "others": ["Figma", "AdobeXD", "AWS"]
+    },
+    "showResume": false
+  }
+  
